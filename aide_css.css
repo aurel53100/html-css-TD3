@@ -1,0 +1,86 @@
+body, ul, li, h1, h2, a{
+ /* à compléter */
+}
+p{
+  /* à compléter */
+}
+header{
+  /* à compléter */
+}
+header h1{
+  /* à compléter */
+}
+.banner{
+  /* à compléter */
+}
+.banner img{
+  /* à compléter */
+}
+.banner .welcome{
+  /* à compléter */
+} 
+.banner .welcome span{
+  /* à compléter */
+}
+nav{
+  /* à compléter */
+}
+nav ul{
+  /* à compléter */
+}
+nav li{
+  /* à compléter */
+}
+nav li a{
+  /* à compléter */
+}
+nav li a:hover{
+  /* à compléter */
+}
+nav li a.join{
+  /* à compléter */
+}
+main{
+  /* à compléter */
+}
+article h2{
+  /* à compléter */
+}
+article p{
+  /* à compléter */
+}
+article p::first-line{
+  /* à compléter */
+}
+.images{
+  /* à compléter */
+}
+.images li{
+  /* à compléter */
+}
+.images li:hover{
+  /* à compléter */
+}
+.images li img{
+  /* à compléter */
+}
+section.join{
+  /* à compléter */
+}
+section.join h2{
+  /* à compléter */
+}
+form input{
+  /* à compléter */
+}
+form input:focus{
+  /* à compléter */
+}
+form input:valid{
+  /* à compléter */
+}
+footer{
+  /* à compléter */
+}
+
+
